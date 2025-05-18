@@ -2,7 +2,9 @@
 
 This repository provides a custom implementation of **DiT (Diffusion Transformer)**, a scalable and efficient diffusion model built entirely on Vision Transformers (ViTs), trained on the CIFAR-10 dataset. DiT achieves state-of-the-art performance in image synthesis tasks by replacing the traditional convolutional UNet backbone with a hierarchical transformer-based architecture.
 
-![Generated CIFAR-10 Samples](samples/grid_seed_42.png)
+<div style="text-align:center">
+  <img src="samples/grid_seed_42.png" alt="Generated CIFAR-10 Samples" />
+</div>
 
 ## Overview
 
