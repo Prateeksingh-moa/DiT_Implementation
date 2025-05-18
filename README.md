@@ -10,7 +10,7 @@ This repository provides a custom implementation of **DiT (Diffusion Transformer
 
 **DiT** introduces a fully transformer-based architecture for denoising diffusion probabilistic models (DDPMs). Instead of the conventional CNN-based UNet structure, DiT employs Vision Transformers that process images as sequences of patches, enabling improved scalability and parallelism, particularly for large models and high-resolution data.
 
-Original paper: [DiT: Scalable Diffusion Models with Transformers](https://arxiv.org/abs/2303.11305)
+Original paper: [DiT: Scalable Diffusion Models with Transformers](https://arxiv.org/abs/2212.09748)
 
 ## Features
 
